@@ -1,4 +1,4 @@
-ThisBuild / scalaVersion := "2.13.10"
+ThisBuild / scalaVersion := "2.13.11"
 ThisBuild / organization := "ru.delimobil"
 
 val cabbitVersion = "0.2.0-RC3"
