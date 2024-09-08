@@ -9,5 +9,5 @@ libraryDependencies ++=
   Seq(
     "ru.delimobil" %% "cabbit" % cabbitVersion,
     "ru.delimobil" %% "cabbit-circe" % cabbitVersion,
-    "io.circe" %% "circe-generic" % "0.14.3",
+    "io.circe" %% "circe-generic" % "0.14.10",
   )
